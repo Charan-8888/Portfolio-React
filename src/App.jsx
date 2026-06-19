@@ -36,7 +36,7 @@ function App() {
 
       <section className="Person" id="home">
         <div className="Person-content">
-          <h1>Hi, I'm <span>Charan</span></h1>
+          <h1>Hi, I'm <span>Manvith</span></h1>
           <h2>Web Developer</h2>
           <p>
             I am a beginner web developer passionate about building modern and responsive websites using HTML, CSS, and JavaScript.

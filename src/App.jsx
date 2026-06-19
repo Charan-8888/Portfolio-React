@@ -21,7 +21,7 @@ function App() {
   return (
     <>
       <header className="header">
-        <div className="logo">Charan<span>.</span></div>
+        <div className="logo">Manvith<span>.</span></div>
 
         <nav className="navbar">
           <a href="#home">Home</a>
